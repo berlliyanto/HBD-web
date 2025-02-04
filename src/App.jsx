@@ -181,7 +181,7 @@ export default function BirthdayWish() {
          <div className="bg-white p-6 rounded-lg shadow-lg text-center w-1/2">
            <h2 className="text-xl font-bold mb-4">Pesan Gak Penting</h2>
            <p className="text-gray-700 mb-4">Selamat ulang tahun sof semoga selalu diberi kebahagian dan rezeki yang lancar amiinn. Aku akhir akhir ini mulai sering ngoding lagi, 
-            jadi ini iseng aja buat web untuk ucapan selamat ulang tahun ke orang - orang hehe, semoga kamu suka hahaha.
+            jadi ini iseng aja buat web untuk ucapan selamat ulang tahun buat orang hehe, semoga kamu suka hahaha, maaf aku pinjam foto kamu ya dari <span className="font-bold">Sofia Store (SoTo)</span>.
            </p>
            <p className="text-gray-700 mb-4">Jujur ini sebenernya aku malu sih bikin kaya gini awkaokwao, kamu jan ketawa... 
             Btw aku mau ucapin terima kasih dan maaf juga selama satu tahun ini, udah 1 tahun ya gak kerasa. Aku berterima kasih karena kamu udah
