@@ -148,7 +148,7 @@ export default function BirthdayWish() {
           transition={{ duration: 2, ease: "easeInOut" }}
         >
           <img
-            src="./src/assets/logo.jpg"
+            src="/public/sofia.jpg"
             alt="Logo"
             className="w-full h-full object-cover"
           />
