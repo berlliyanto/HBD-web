@@ -180,7 +180,7 @@ export default function BirthdayWish() {
          <div className="fixed top-0 left-0 w-full h-full flex items-center justify-center bg-black bg-opacity-5">
          <div className="bg-white p-6 rounded-lg shadow-lg text-center w-1/2">
            <h2 className="text-xl font-bold mb-4">Pesan Gak Penting</h2>
-           <p className="text-gray-700 mb-4">Terima kasih dan maaf.<span className="font-bold">Sofia Store (SoTo)</span>.
+           <p className="text-gray-700 mb-4">Terima kasih dan maaf.
            </p>
            <button onClick={() => setIsMessageOpen(false)} className="bg-red-500 text-white px-4 py-2 rounded hover:bg-red-600">Tutup</button>
          </div>
