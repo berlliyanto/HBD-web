@@ -180,16 +180,7 @@ export default function BirthdayWish() {
          <div className="fixed top-0 left-0 w-full h-full flex items-center justify-center bg-black bg-opacity-5">
          <div className="bg-white p-6 rounded-lg shadow-lg text-center w-1/2">
            <h2 className="text-xl font-bold mb-4">Pesan Gak Penting</h2>
-           <p className="text-gray-700 mb-4">Selamat ulang tahun sof semoga selalu diberi kebahagian dan rezeki yang lancar amiinn. Aku akhir akhir ini mulai sering ngoding lagi, 
-            jadi ini iseng aja buat web untuk ucapan selamat ulang tahun buat orang hehe, semoga kamu suka hahaha, maaf aku pinjam foto kamu ya dari <span className="font-bold">Sofia Store (SoTo)</span>.
-           </p>
-           <p className="text-gray-700 mb-4">Jujur ini sebenernya aku malu sih bikin kaya gini awkaokwao, kamu jan ketawa... 
-            Btw aku mau ucapin terima kasih dan maaf juga selama satu tahun ini, udah 1 tahun ya gak kerasa. Aku berterima kasih karena kamu udah
-            ngajarin aku banyak hal kayak baca buku, skin care, pekerjaan, bahkan ngasih aku saran juga. Terus maafin juga klo aku ada salah baik dari perbuatan atau lisan, soalnya
-            bentar lagi mau puasa wkwkwk,, bercanda... Terima kasih dan Maaf.
-           </p>
-           <p className="text-gray-600">Aku bersyukur dan senang ketemu sofia. Kalo webnya kurang bagus maaf, nanti bisa dibagusin klo mau. Mungkin janji aku yang belum ditepati bantu kamu buatin API 
-            untuk pengingat yaa...
+           <p className="text-gray-700 mb-4">Terima kasih dan maaf.<span className="font-bold">Sofia Store (SoTo)</span>.
            </p>
            <button onClick={() => setIsMessageOpen(false)} className="bg-red-500 text-white px-4 py-2 rounded hover:bg-red-600">Tutup</button>
          </div>
